@@ -1,4 +1,5 @@
 ### Oie, eu sou a Gabi 👋😄
+Seja bem vindo (a)!
 
 
 - 🔭 Estou estudando front-end;
